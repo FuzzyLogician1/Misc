@@ -1,5 +1,5 @@
 
-<h2> Greetings earthling! </h2>
+<h2> Greetings,earthling! </h2>
 
 <p>This my Random repository,it contains many of the crazy ideas that go through my mind.</p>
 
