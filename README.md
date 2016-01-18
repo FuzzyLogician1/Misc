@@ -5,4 +5,4 @@
 
 <p><em>Warning:</em></p>
 
-<p>The content of this repository can be unmaintained,buggy and/or plain weird,please proceed with caution,if any questions occur feel free to contact or post an issue!And don't forget to have fun.</p>
+<p>The content of this repository can be unmaintained,buggy and/or plain weird,please proceed with caution,if any questions occur feel free to contact me or post an issue!And don't forget to have fun.</p>
